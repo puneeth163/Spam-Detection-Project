@@ -1,6 +1,6 @@
 # Spam-Detection-Project
 
-# **End-To-End ML/AI Project**
+## **End-To-End ML/AI Project**
 ### Define the Problem (Most Important Step)
 * Before touching code, ask:
   * What iproblem are we solving?
