@@ -1,6 +1,5 @@
 # Spam-Detection-Project
 
-**04-03-2026**
 # **End-To-End ML/AI Project**
 ### Define the Problem (Most Important Step)
 * Before touching code, ask:
